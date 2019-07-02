@@ -14,7 +14,7 @@ use GCC :gcc -Wall main.c -o main
 ## Test
 example
 ## Contrubute
-Please read CONTRIBUTING.md for learn it
+Please read [CONTRIBUTING.md](https://github.com/1170300133/hit-1170300133/blob/master/CONTRIBUTING.md) for learn it
 ## Deployment
 example for deployment
 ## Version control 
