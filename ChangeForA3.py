@@ -1,3 +1,3 @@
-a = ["!\n","world！","China!","HIT!"]
-for i in range(12):
+a = ["!","world！","China!","HIT!"]
+for i in range(4):
     print("Hello\t"+a[i%4])
